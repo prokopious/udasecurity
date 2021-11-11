@@ -1,0 +1,3 @@
+
+Method: com.udacity.webcrawler.parser.PageParserImpl#parse Duration: 0 minutes 13 seconds 300 milliseconds 
+Method: com.udacity.webcrawler.ParallelWebCrawler#crawl Duration: 0 minutes 3 seconds 698 milliseconds 
